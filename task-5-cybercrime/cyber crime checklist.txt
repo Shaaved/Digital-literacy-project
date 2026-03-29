@@ -1,0 +1,16 @@
+Navigating the digital landscape is basically a prerequisite for college life in India—whether you're attending online lectures, ordering late-night biryani, or splitting chai bills via UPI. But as we spend more time online, the risks get a bit more sophisticated.
+ Digital Safety Checklist
+* Secure Your Accounts with MFA: Enable Multi-Factor Authentication (MFA) on your university portals, Gmail, and Instagram. Even if someone phishes your password, they can't get in without that second code.
+* Audit Your Privacy Settings: Go through your social media "Privacy Checkups." Limit who can see your phone number and email address to avoid targeted scams or unwanted contact.
+* Beware of Public Wi-Fi: College campuses and cafes are hotspots for "Evil Twin" networks. If you must use public Wi-Fi for assignments, avoid logging into banking apps or sensitive portals. Use a VPN if possible.
+* Think Before You Click (Phishing): Be skeptical of emails or WhatsApp messages claiming you’ve won a scholarship, a free internship, or that your "KYC is expiring." Verify the sender's address before clicking any links.
+* Vetting "Earn from Home" Offers: If a Telegram group or WhatsApp contact offers you "?5,000 a day for liking YouTube videos," it’s a scam. These often lead to task-based fraud where you end up losing money.
+* Lock Your SIM Card: Set a PIN for your SIM card. If your phone is stolen, thieves can’t simply put your SIM in another device to receive your OTPs and reset your passwords.
+ Financial & UPI Safety
+* The "PIN is for Paying" Rule: Remember, you never need to enter your UPI PIN or scan a QR code to receive money. If someone sends you a "Refund QR" and asks for your PIN, it’s a scam.
+* Verify the Payee Name: Before hitting 'Send' on any UPI app, always double-check the legal name that pops up after scanning a QR code at a local shop or paying a stranger. Ensure it matches the person you intend to pay.
+
+ How to Report Cyber Crime
+If you or a friend have been targeted by a scam or a digital threat, don't wait. Timely reporting increases the chances of freezing stolen funds.
+* National Cyber Crime Reporting Portal: Visit cybercrime.gov.in to file a formal complaint.
+* National Helpline: Call 1930 immediately to report financial fraud (this is the dedicated "Golden Hour" helpline).
